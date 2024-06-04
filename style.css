@@ -1,0 +1,129 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+}
+.c{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(to bottom right blue, red) ;
+}
+.inner-container{height: 350px;
+    width: 600px;
+background-color: #00b4d8;
+position: absolute;
+top: 50px;
+left: 200px;
+    border-radius: 10px;
+}
+.form-container{
+    height: 250px;
+    width: 400px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    border-radius: 10px;
+
+}
+h1{
+    font-family: "rubik", 'Times ', Times, serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #00b4d8;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+input[type=text]{
+    width: 350px;
+    padding: 10px 15px;
+    margin: 8px 20px;
+    box-sizing:border-box ;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+input[type=password]{
+    width: 350px;
+    padding: 10px 15px;
+    margin: 8px 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+.login{
+    width: 350px;
+    padding: 10px 15px;
+    margin: 8px 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid gray;
+/ */
+/* .container{
+    border: 2px solid red;
+    display: grid;
+    grid-template-columns: 25% 30% 35%;
+    grid-template-columns: 1fr 2fr 3fr 4fr;
+    row-gap: 5px;
+    column-gap: 5px;
+
+}
+.box{
+    border: 2px solid green;
+    box-sizing: border-box;
+}
+#box-1{
+    grid-row-start: 1;
+    grid-row-end: 3;
+} */
+.container{
+    width: 550px;
+    padding: 10px 15px;
+    margin: 8px 20px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid rgb(128, 128, 128);
+    background-color: rgb(18, 206, 87);
+}
+h1{
+    font-family: "rubik";
+    font-weight: 800px;
+    font-size: 40px;
+    color: red;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+h2{
+    font-family: "rubik";
+    font-weight: 400px;
+    font-size: 20px;
+    color: rgb(6, 0, 0);
+    margin-top:20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+h3{
+    font-family: "rubik";
+    font-weight: 400px;
+    font-size: 20px;
+    color: rgb(6, 0, 0);
+    margin-top:20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+h4{
+    font-family: "rubik";
+    font-weight: 400px;
+    font-size: 20px;
+    color: rgb(6, 0, 0);
+    margin-top:20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.image{
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    size: 0cap;
+}
+
